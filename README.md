@@ -1,5 +1,5 @@
 # BellavsTheWorld
-Detects my roomate's dog.
+Detects my roommate's dog.
 
 For the camera I've used CameraX. 
 
